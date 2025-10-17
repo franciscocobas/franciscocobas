@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.franciscocobas.dev" target="_blank">
-    <img alt="Gatsby" src="https://www.franciscocobas.dev/logos/fc-logo.png" width="180" />
-  </a>
-</p>
 <h1 align="center">Welcome to my <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /> profile 🔭</h1>
 
 [![Francisco Cobas's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscocobas)](https://github.com/franciscocobas/github-readme-stats)
