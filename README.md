@@ -2,9 +2,19 @@
 
 [![Francisco Cobas's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscocobas)](https://github.com/franciscocobas/github-readme-stats)
 
-I'm a professional Software Developer who has more than 8 years of career experience. I ❤️ Javascript and their whole ecosystem. But this doesn't block me to learn new technologies and build amazing projects with a variety of different tools. My main focus is to develop great products for my clients.
-Currently, I'm working as a Software Developer at Cooperativa de Trabajo SUBTE, and doing freelance projects on my own.
+Soy desarrollador de software con más de 13 años de experiencia profesional. ❤️ Me apasiona JavaScript y todo su ecosistema, aunque siempre estoy abierto a aprender nuevas tecnologías y utilizar distintas herramientas para crear proyectos increíbles.
+Mi principal objetivo es desarrollar productos de alta calidad que realmente aporten valor a mis clientes.
 
-If you are interested in contact me you can do it by sending me an email fcarocena@gmail.com. I'm pleased to read you and see what you have in mind.
+Actualmente trabajo como desarrollador en la Cooperativa de Comunicación SUBTE y en la diaria, y además realizo proyectos freelance por mi cuenta.
 
-Also, you can check out my website in the following url: [franciscocobas.dev](https://franciscocobas.dev)
+Si querés ponerte en contacto conmigo, podés escribirme a [fcarocena@gmail.com](mailto:fcarocena@gmail.com). Me encantaría leerte y conocer tus ideas.
+
+
+=============================
+
+I’m a professional Software Developer with over 13 years of experience. ❤️ I’m passionate about JavaScript and its entire ecosystem, but I’m always eager to learn new technologies and use diverse tools to build amazing projects.
+My main goal is to develop high-quality products that truly deliver value to my clients.
+
+I’m currently working as a Software Developer at Cooperativa de Comunicación SUBTE and la diaria, while also taking on freelance projects on my own.
+
+If you’d like to get in touch, feel free to email me at [fcarocena@gmail.com](mailto:fcarocena@gmail.com) — I’d be happy to hear from you and learn about your ideas.
